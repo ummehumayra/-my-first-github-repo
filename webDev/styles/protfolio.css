@@ -1,0 +1,152 @@
+/*common shared style */
+
+body {
+    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.text-primary {
+    color: #FD6E0A;
+}
+
+
+.btn-primary {
+    border-radius: 5px;
+    background: #FD6E0A;
+    border: none;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 15px 35px;
+}
+
+.section-title {
+    color: #181818;
+    text-align: center;
+    font-size: 35px;
+    font-weight: 700;
+}
+
+.section-desciption {
+    color: #757575);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+
+}
+
+/* nav related styles */
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 200px;
+}
+
+.nav-title {
+    color: #181818;
+    font-size: 45px;
+    font-weight: 800;
+
+}
+
+nav ul {
+    display: flex;
+    align-items: center;
+
+}
+
+nav li {
+    list-style: none;
+    margin-right: 50px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #474747;
+}
+
+.headar {
+    background-color: #FFF8F3;
+    background-image: url(/images/images/header_bg.png);
+    background-repeat: no-repeat;
+    background-position: bottom right;
+
+
+}
+
+.banner {
+    padding: 30px 30px 0px 150px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.banner-contant {
+    max-width: 500px;
+
+}
+
+.banner .profile-picture {
+    width: 500px;
+}
+
+.banner-greeting {
+    color: #474747);
+    font-size: 45px;
+    font-weight: 600;
+}
+
+.banner-title {
+    color: #181818);
+    font-size: 85px;
+    font-weight: 700;
+}
+
+banner-contant {
+    max-width: 585px;
+    color: #757575);
+    font-size: 18px;
+    font-weight: 400;
+
+}
+
+/* main section style */
+
+.main {
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+.about {
+    padding: 130px;
+    border-radius: 10px;
+    background: #FFF8F3;
+    margin: 130px 0;
+}
+
+.about-info-container {
+    display: flex;
+    justify-content: space-around;    
+}
+
+.about-info {
+    text-align: center;
+    margin-right: 50px;
+}
+
+.info-title {
+    margin-bottom: 0px;
+    color: #757575);
+    text-align: center;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.info-description {
+    margin-top: 0px;
+    color: #474747);
+    font-size: 20px;
+    font-weight: 700;
+}
