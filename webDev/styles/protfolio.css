@@ -28,7 +28,7 @@ body {
 }
 
 .section-desciption {
-    color: #757575);
+    color: #757575;
     text-align: center;
     font-size: 18px;
     font-weight: 400;
@@ -69,7 +69,7 @@ nav a {
 
 .headar {
     background-color: #FFF8F3;
-    background-image: url(/images/images/header_bg.png);
+    background-image: url("../images/header_bg.png");
     background-repeat: no-repeat;
     background-position: bottom right;
 
@@ -93,20 +93,20 @@ nav a {
 }
 
 .banner-greeting {
-    color: #474747);
+    color: #474747;
     font-size: 45px;
     font-weight: 600;
 }
 
 .banner-title {
-    color: #181818);
+    color: #181818;
     font-size: 85px;
     font-weight: 700;
 }
 
 banner-contant {
     max-width: 585px;
-    color: #757575);
+    color: #757575;
     font-size: 18px;
     font-weight: 400;
 
@@ -138,7 +138,7 @@ banner-contant {
 
 .info-title {
     margin-bottom: 0px;
-    color: #757575);
+    color: #757575;
     text-align: center;
     font-size: 20px;
     font-weight: 400;
@@ -146,7 +146,7 @@ banner-contant {
 
 .info-description {
     margin-top: 0px;
-    color: #474747);
+    color: #474747;
     font-size: 20px;
     font-weight: 700;
 }
